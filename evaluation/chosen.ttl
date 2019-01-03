@@ -1,0 +1,200 @@
+<http://dbpedia.org/resource/Canada> <http://bkgft.upb.de/icao> <http://dbpedia.org/resource/Calgary_International_Airport> .
+<http://dbpedia.org/resource/China> <http://bkgft.upb.de/confirmed> <http://dbpedia.org/resource/2011_end_times_prediction> .
+<http://dbpedia.org/resource/Charles_Darwin> <http://bkgft.upb.de/clive> <http://dbpedia.org/resource/Charles_Darwin> .
+<http://dbpedia.org/resource/October_23_(Eastern_Orthodox_liturgics)>  <http://bkgft.upb.de/time> "2:29" .
+<http://dbpedia.org/resource/Beverloo_Camp> <http://bkgft.upb.de/capacity> "Not listed." .
+<http://dbpedia.org/resource/Alaska> <http://bkgft.upb.de/city-town-etc> <http://dbpedia.org/resource/Ossipee,_New_Hampshire> .
+<http://dbpedia.org/resource/Georgia_(U.S._state)> <http://bkgft.upb.de/1st-release>    <http://dbpedia.org/resource/Delaware> .
+<http://dbpedia.org/resource/Louisiana> <http://bkgft.upb.de/mintage> "764,204,000" .
+<http://dbpedia.org/resource/North_Dakota> <http://bkgft.upb.de/aha-rep> <http://dbpedia.org/resource/UltraSPARC_T2> .
+<http://dbpedia.org/resource/Buenos_Aires> <http://bkgft.upb.de/establ> "1995" .
+<http://dbpedia.org/resource/Brazil> <http://bkgft.upb.de/ambassador> "Vacant since November 2018[31] William Popp, Chargé d'Affaires a.i[32]" .
+<http://dbpedia.org/resource/Metro-Goldwyn-Mayer> <http://bkgft.upb.de/title> <http://dbpedia.org/resource/New_Moon_(novel)> .
+<http://dbpedia.org/resource/Austria> <http://bkgft.upb.de/icao> <http://dbpedia.org/resource/Vienna_International_Airport> .
+<http://dbpedia.org/resource/February_25> <http://bkgft.upb.de/losing-team> <http://dbpedia.org/resource/Tom_Baugh> .
+<http://dbpedia.org/resource/United_States> <http://bkgft.upb.de/length> "159 m (522 ft)" .
+<http://dbpedia.org/resource/Japan> <http://bkgft.upb.de/airport> <http://dbpedia.org/resource/Shizuoka_Airport>;
+<http://dbpedia.org/resource/High_society_(social_class)> <http://bkgft.upb.de/studio>    <http://dbpedia.org/resource/Metro-Goldwyn-Mayer> .
+<http://dbpedia.org/resource/Liberators_(comics)> <http://bkgft.upb.de/name> <http://dbpedia.org/resource/Ola_L._Mize> .
+<http://dbpedia.org/resource/India> <http://bkgft.upb.de/gross-local-currency> "?100,000,000[11]" .
+<http://dbpedia.org/resource/July_21_(Eastern_Orthodox_liturgics)> <http://bkgft.upb.de/notes>    <http://dbpedia.org/resource/N/a> .
+<http://dbpedia.org/resource/Brussels> <http://bkgft.upb.de/official-name> <http://dbpedia.org/resource/European_Defence_Agency> .
+<http://dbpedia.org/resource/B> <http://bkgft.upb.de/diameter> <http://dbpedia.org/resource/25_km_Zheleznoy_Dorogi_Monchegorsk–Olenya> .
+<http://dbpedia.org/resource/M/A/R/C_Research> <http://bkgft.upb.de/light-source>    <http://dbpedia.org/resource/Reynard_02S> .
+<http://dbpedia.org/resource/Maylene_and_the_Sons_of_Disaster> <http://bkgft.upb.de/ref>    <http://dbpedia.org/resource/International_Astronomical_Union> .
+<http://dbpedia.org/resource/Winger_(ice_hockey)> <http://bkgft.upb.de/player> <http://dbpedia.org/resource/Eric_Cairns> .
+<http://dbpedia.org/resource/Defence_Force_SC> <http://bkgft.upb.de/player> <http://dbpedia.org/resource/Guercino> .
+<http://dbpedia.org/resource/Chicago_Blackhawks> <http://bkgft.upb.de/player> <http://dbpedia.org/resource/Sergei_Klimovich> .
+<http://dbpedia.org/resource/Ghana> <http://bkgft.upb.de/background> <http://dbpedia.org/resource/České_dráhy> .
+<http://dbpedia.org/resource/Borussia_Dortmund> <http://bkgft.upb.de/winner> <http://dbpedia.org/resource/Jong_Ajax> .
+<http://dbpedia.org/resource/January_21> <http://bkgft.upb.de/notability> "Actress (Another World)" .
+<http://dbpedia.org/resource/Warner_Bros.-Seven_Arts> <http://bkgft.upb.de/capacity>    "10,000" .
+<http://dbpedia.org/resource/San_Jose_Earthquakes> <http://bkgft.upb.de/domestic-gross>    "$79,666,653[5]" .
+<http://dbpedia.org/resource/Winner,_South_Dakota> <http://bkgft.upb.de/opponent>    <http://dbpedia.org/resource/Andrei_Cherkasov>.
+<http://dbpedia.org/resource/Runner-up> <http://bkgft.upb.de/score> "6–1, 3–6, 2–6" .
+<http://dbpedia.org/resource/Angel_Stadium> <http://bkgft.upb.de/date> <http://dbpedia.org/resource/October_23_(Eastern_Orthodox_liturgics)> .
+<http://dbpedia.org/resource/South_Africa> <http://bkgft.upb.de/name> <http://dbpedia.org/resource/Surita_Febbraio> .
+<http://dbpedia.org/resource/Glen_Matlock> <http://bkgft.upb.de/role> "Ben Matlock / Charlie Matlock" .
+<http://dbpedia.org/resource/Greece> <http://bkgft.upb.de/tv-network> <http://dbpedia.org/resource/ERT_HD> .
+<http://dbpedia.org/resource/University_of_Leicester> <http://bkgft.upb.de/total-number-of-students>    "16,160" .
+<http://dbpedia.org/resource/Minnesota_North_Stars> <http://bkgft.upb.de/l> "38" .
+<http://dbpedia.org/resource/Adidas> <http://bkgft.upb.de/shirt-sponsor> <http://dbpedia.org/resource/TIM_Brasil> .
+<http://dbpedia.org/resource/Titanic_(District_Electoral_Area)> <http://bkgft.upb.de/studios>    "Paramount / Fox" .
+<http://dbpedia.org/resource/UEFA_Intertoto_Cup> <http://bkgft.upb.de/club> <http://dbpedia.org/resource/Polonia_Bytom> .
+<http://dbpedia.org/resource/Edinburgh> <http://bkgft.upb.de/l> "4" .
+<http://dbpedia.org/resource/Newark_and_Sherwood> <http://bkgft.upb.de/new-route>    <http://dbpedia.org/resource/U.S._Route_1/9_Truck> .
+<http://dbpedia.org/resource/Munster> <http://bkgft.upb.de/p> "2" .
+<http://dbpedia.org/resource/René_Corbet> <http://bkgft.upb.de/college-junior-club-team>    "Drummondville Voltigeurs (QMJHL)" .
+<http://dbpedia.org/resource/Lynda_Clark,_Baroness_Clark_of_Calton> <http://bkgft.upb.de/tenure>    "2000–2003" .
+<http://dbpedia.org/resource/David_Beckham> <http://bkgft.upb.de/points> "41" .
+<http://dbpedia.org/resource/Andriy_Shevchenko> <http://bkgft.upb.de/1p> "11" .
+<http://dbpedia.org/resource/Graham_Taylor> <http://bkgft.upb.de/team> <http://dbpedia.org/resource/Aston_Villa_F.C.> .
+<http://dbpedia.org/resource/Lera_Millard_Thomas> <http://bkgft.upb.de/school-club-team>    <http://dbpedia.org/resource/Marquette_County,_Michigan> .
+<http://dbpedia.org/resource/Taiwan> <http://bkgft.upb.de/regionally> "6 of 20" .
+<http://dbpedia.org/resource/Mark_Waugh> <http://bkgft.upb.de/6s> "0" .
+<http://dbpedia.org/resource/L'Aquila> <http://bkgft.upb.de/points-diff> "?352" .
+<http://dbpedia.org/resource/Mario_Lemieux> <http://bkgft.upb.de/pts> "160" .
+<http://dbpedia.org/resource/Winnipeg>   <http://bkgft.upb.de/type> <http://dbpedia.org/resource/Dan_Quayle> .
+<http://dbpedia.org/resource/Bolivia> <http://bkgft.upb.de/law-or-policy> "Decree N'22421" .
+<http://dbpedia.org/resource/Carlton_Communications> <http://bkgft.upb.de/home-team>    <http://dbpedia.org/resource/West_Coast,_New_Zealand> .
+<http://dbpedia.org/resource/Brisbane_Lions> <http://bkgft.upb.de/score> "21.14 (140)" .
+<http://dbpedia.org/resource/Colombia> <http://bkgft.upb.de/score> "5.0" .
+<http://dbpedia.org/resource/Ed_Belfour> <http://bkgft.upb.de/min> "4106" .
+<http://dbpedia.org/resource/Grenada> <http://bkgft.upb.de/igbo> <http://dbpedia.org/resource/Grenada> .
+<http://dbpedia.org/resource/Antigua_and_Barbuda> <http://bkgft.upb.de/refs> "" .
+<http://dbpedia.org/resource/The_Bahamas> <http://bkgft.upb.de/refs> "" .
+<http://dbpedia.org/resource/El_Salvador> <http://bkgft.upb.de/1st-additional-protocol>    "4 May 1995" .
+<http://dbpedia.org/resource/Arlington_High_School_(Oregon)> <http://bkgft.upb.de/state>    <http://dbpedia.org/resource/Texas> .
+<http://dbpedia.org/resource/Estonia> <http://bkgft.upb.de/score> "6.7" .
+<http://dbpedia.org/resource/Kazakhstan> <http://bkgft.upb.de/name> <http://dbpedia.org/resource/Natalya_Torshina-Alimzhanova> .
+<http://dbpedia.org/resource/Thailand> <http://bkgft.upb.de/rank> "50" .
+<http://dbpedia.org/resource/Maria_(Danish_singer)> <http://bkgft.upb.de/title> <http://dbpedia.org/resource/Foreign_Objects_(band)> .
+<http://dbpedia.org/resource/TeenNick> <http://bkgft.upb.de/latitude> "20.4° S" .
+<http://dbpedia.org/resource/9mm_Winchester_Magnum> <http://bkgft.upb.de/case-length>    "29.46 (1.160)" .
+<http://dbpedia.org/resource/No_(band)> <http://bkgft.upb.de/name> <http://dbpedia.org/resource/Metatheorem> .
+<http://dbpedia.org/resource/Corey_Hirsch> <http://dbpedia.org/ontology/nationality>    <http://dbpedia.org/resource/Canada> .
+<http://dbpedia.org/resource/Medal_of_Honor> <http://bkgft.upb.de/name> <http://dbpedia.org/resource/Charles_F._Pendleton> .
+<http://dbpedia.org/resource/General_(DC_Comics)> <http://bkgft.upb.de/equivalent-nato-rank-code>    <http://dbpedia.org/resource/Four-star_rank> .
+<http://dbpedia.org/resource/7th_Infantry_Regiment_(United_States)> <http://bkgft.upb.de/name>    <http://dbpedia.org/resource/Jerry_K._Crump> .
+<http://dbpedia.org/resource/Candidate> <http://bkgft.upb.de/nominee-work> <http://dbpedia.org/resource/Al-Aziz_Billah> .
+<http://dbpedia.org/resource/Quantum_1/f_noise> <http://bkgft.upb.de/maximum-electrons>    "14" .
+<http://dbpedia.org/resource/Conservative_Party_(UK)> <http://bkgft.upb.de/votes>    "6,767" .
+<http://dbpedia.org/resource/Christoph_Zipf> <http://bkgft.upb.de/outcome> <http://dbpedia.org/resource/Winner,_South_Dakota> .
+<http://dbpedia.org/resource/Jack_and_the_Beanstalk> <http://bkgft.upb.de/year> "1952" .
+<http://dbpedia.org/resource/Gulf_Air> <http://bkgft.upb.de/destinations> <http://dbpedia.org/resource/Bahrain> .
+<http://dbpedia.org/resource/Turkmenistan_Airlines> <http://bkgft.upb.de/destinations>    "A?gabat[31]" .
+<http://dbpedia.org/resource/Trevor_Gordon> <http://bkgft.upb.de/title> <http://dbpedia.org/resource/The_Eleventh_Hour_(children's_book)> .
+<http://dbpedia.org/resource/W/o> <http://bkgft.upb.de/name> <http://dbpedia.org/resource/Anzhela_Balakhonova> .
+<http://dbpedia.org/resource/Jerry_Jeff_Walker> <http://bkgft.upb.de/nhl-team> "Detroit Red Wings" .
+<http://dbpedia.org/resource/Night_Watch_(Lukyanenko_novel)> <http://bkgft.upb.de/japan>    "80" .
+<http://dbpedia.org/resource/5_mm/35_SMc> <http://bkgft.upb.de/oal-inch> "2.030" .
+<http://dbpedia.org/resource/Jimmy_Bonthrone> <http://bkgft.upb.de/from> "1971" .
+<http://dbpedia.org/resource/Whanganui> <http://bkgft.upb.de/general-electorates>    "J G Rowan" .
+<http://dbpedia.org/resource/Scottie_Pippen> <http://bkgft.upb.de/won> <http://dbpedia.org/resource/None_(liturgy)> .
+<http://dbpedia.org/resource/Bas-Saint-Laurent> <http://bkgft.upb.de/mna> <http://dbpedia.org/resource/Mario_Dumont> .
+<http://dbpedia.org/resource/Chris_Herperger> <http://bkgft.upb.de/position> <http://dbpedia.org/resource/Winger_(ice_hockey)> .
+<http://dbpedia.org/resource/Yvon_Picotte> <http://bkgft.upb.de/years> "2002-2008[70]" .
+<http://dbpedia.org/resource/John_Kundla> <http://bkgft.upb.de/award-s-won> <http://dbpedia.org/resource/None_(liturgy)> .
+<http://dbpedia.org/resource/Tomáš_Jelínek> <http://bkgft.upb.de/nhl-team> <http://dbpedia.org/resource/Ottawa_Senators> .
+<http://dbpedia.org/resource/Bener_Meriah_Regency> <http://bkgft.upb.de/2014-estimates>    "0.700 (High)" .
+<http://dbpedia.org/resource/Qazax> <http://bkgft.upb.de/administrative-division>    <http://dbpedia.org/resource/Ganja,_Azerbaijan> .
+<http://dbpedia.org/resource/Strontium_Dog> <http://bkgft.upb.de/autoignition> "7003134815000000000?1,075 °C (1,967 °F)" .
+<http://dbpedia.org/resource/Bikstok_Røgsystem> <http://bkgft.upb.de/atomic-number>    "92" .
+<http://dbpedia.org/resource/Action_démocratique_du_Québec_candidates,_2008_Quebec_provincial_election>  <http://bkgft.upb.de/background> <http://dbpedia.org/resource/Hallalhotsoot> .
+<http://dbpedia.org/resource/Burnley> <http://bkgft.upb.de/rank> "88" .
+<http://dbpedia.org/resource/Three_Continents_Festival> <http://bkgft.upb.de/year>    "1992" .
+<http://dbpedia.org/resource/Vasilis_Dimitriadis> <http://bkgft.upb.de/apps> "14" .
+<http://dbpedia.org/resource/The_Penthouse_Club> <http://bkgft.upb.de/role> "Herself/host" .
+<http://dbpedia.org/resource/Heidi_Range> <http://bkgft.upb.de/agm-65a-b> "Greater than 22 km (12 nmi)" .
+<http://dbpedia.org/resource/MAD_World> <http://bkgft.upb.de/notes> "Television series - 1 episode" .
+<http://dbpedia.org/resource/Nepal> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Kathmandu> .
+<http://dbpedia.org/resource/Ujar_District> <http://bkgft.upb.de/azerbaijani-name>    <http://dbpedia.org/resource/Alper_Uçar> .
+<http://dbpedia.org/resource/The_Story_of_Mankind> <http://bkgft.upb.de/year> "1957" .
+<http://dbpedia.org/resource/Iran> <http://bkgft.upb.de/population> ">100" .
+<http://dbpedia.org/resource/Deputy_mayor> <http://bkgft.upb.de/party> <http://dbpedia.org/resource/Republican_Party_(France)> .
+<http://dbpedia.org/resource/The_Shadow> <http://bkgft.upb.de/year> "1937–1939" .
+<http://dbpedia.org/resource/Orinoco> <http://bkgft.upb.de/role> <http://dbpedia.org/resource/Mina_(singer)> .
+<http://dbpedia.org/resource/Daybreak_Zero> <http://bkgft.upb.de/year> "2012–2014" .
+<http://dbpedia.org/resource/The_Grotesque_(novel)> <http://bkgft.upb.de/year> "1995" .
+<http://dbpedia.org/resource/Henry_VIII_of_England> <http://bkgft.upb.de/role> "Charlotte, The Queen Mother" .
+<http://dbpedia.org/resource/Nikos_Christidis> <http://bkgft.upb.de/goals> "0" .
+<http://dbpedia.org/resource/Chief_executive_officer> <http://bkgft.upb.de/name> <http://dbpedia.org/resource/Christian_Purslow> .
+<http://dbpedia.org/resource/Scout_Leader> <http://bkgft.upb.de/dimitri> "Calder?n" .
+<http://dbpedia.org/resource/Sir_John_Hamilton,_1st_Baronet,_of_Woodbrook> <http://bkgft.upb.de/john-algie>    <http://dbpedia.org/resource/Tom_Benson> .
+<http://dbpedia.org/resource/Cyrillic_(Unicode_block)> <http://bkgft.upb.de/th> "?" .
+<http://dbpedia.org/resource/Win–loss_record_(pitching)> <http://bkgft.upb.de/type>    <http://dbpedia.org/resource/SD_(rapper)> .
+<http://dbpedia.org/resource/Haiku,_Hawaii> <http://bkgft.upb.de/scrapped> "1969" .
+<http://dbpedia.org/resource/University_of_Michigan> <http://bkgft.upb.de/notes> "Sketches by Spanish artist Pablo Picasso and British sculptor Henry Moore, valued at $200,000, were stolen while on display in a travelling art exhibit organized by the University of Michigan. The sketches were eventually found by federal agents in a California auction house on January 24, 1969, although no arrests were made." .
+<http://dbpedia.org/resource/Grantley_Adams_International_Airport> <http://bkgft.upb.de/country-state-province>    <http://dbpedia.org/resource/Barbados> .
+<http://dbpedia.org/resource/Co-operative_Commonwealth_Federation> <http://bkgft.upb.de/candidate>    "WILLOUGHBY, Harvey Claude" .
+<http://dbpedia.org/resource/History_of_the_Baltimore_Colts> <http://bkgft.upb.de/pf>    "167" .
+<http://dbpedia.org/resource/Reform> <http://bkgft.upb.de/candidate> "Jim Jeffery" .
+<http://dbpedia.org/resource/Jordan> <http://dbpedia.org/ontology/limit> "Confirmed human carcinogen" .
+<http://dbpedia.org/resource/Movies!> <http://bkgft.upb.de/title> <http://dbpedia.org/resource/Gilles_Peterson> .
+<http://dbpedia.org/resource/Brookwood_American_Cemetery_and_Memorial> <http://bkgft.upb.de/conflict>    "World War I" .
+<http://dbpedia.org/resource/Man_Ray> <http://bkgft.upb.de/role> "Wiley Foxx" .
+<http://dbpedia.org/resource/New_Chitose_Airport> <http://bkgft.upb.de/country> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/WFNZ> <http://bkgft.upb.de/country> <http://dbpedia.org/resource/Singapore> .
+<http://dbpedia.org/resource/EVA_Air> <http://bkgft.upb.de/airport> <http://dbpedia.org/resource/Suvarnabhumi_Airport> .
+<http://dbpedia.org/resource/107.9_FM> <http://bkgft.upb.de/power> "0.3 kW" .
+<http://dbpedia.org/resource/Ansbach> <http://bkgft.upb.de/frequency> <http://dbpedia.org/resource/100.3_FM> .
+<http://dbpedia.org/resource/The_Lovely_Bones> <http://bkgft.upb.de/notes> "Dallas–Fort Worth Film Critics Association Award for Best Cinematography Nominated- Critics' Choice Movie Award for Best Cinematography Nominated- Houston Film Critics Society Award for Best Cinematography" .
+<http://dbpedia.org/resource/My_Heart_Belongs_to_Daddy> <http://bkgft.upb.de/year>    "1997" .
+<http://dbpedia.org/resource/Theatre_625> <http://bkgft.upb.de/year> "1965-68" .
+<http://dbpedia.org/resource/České_dráhy> <http://bkgft.upb.de/host-country> <http://dbpedia.org/resource/Djibouti> .
+<http://dbpedia.org/resource/Port-Margot> <http://bkgft.upb.de/title> <http://dbpedia.org/resource/Laughter_in_the_Dark_(novel)> .
+<http://dbpedia.org/resource/Papa,_Shetland> <http://bkgft.upb.de/letter> <http://dbpedia.org/resource/Pandora_Radio> .
+<http://dbpedia.org/resource/Derf> <http://bkgft.upb.de/role> "Joyce Dahmer" .
+<http://dbpedia.org/resource/Sonu_Nigam> <http://bkgft.upb.de/year> "1992" .
+<http://dbpedia.org/resource/Mahogany> <http://bkgft.upb.de/notes> "" .
+<http://dbpedia.org/resource/Nimrod_NRA/C2> <http://bkgft.upb.de/beginning-curvatures>    "?7, 12, 17, 20, 24" .
+<http://dbpedia.org/resource/Kharosthi> <http://bkgft.upb.de/unicode> "U+10A0E" .
+<http://dbpedia.org/resource/Sharada_(actress)> <http://bkgft.upb.de/sign> "?" .
+<http://dbpedia.org/resource/Frankie_Evangelista> <http://bkgft.upb.de/year> "1726" .
+<http://dbpedia.org/resource/Pippo_Spano> <http://bkgft.upb.de/notes> "also isp?n of Temes County" .
+<http://dbpedia.org/resource/Alexandria,_Virginia> <http://bkgft.upb.de/location>    "Market Street, Ardee" .
+<http://dbpedia.org/resource/Ranks_and_insignia_of_NATO> <http://bkgft.upb.de/rank-in-english>    <http://dbpedia.org/resource/Lieutenant_(navy)> .
+<http://dbpedia.org/resource/Short_season> <http://bkgft.upb.de/league> "New York–Penn League" .
+<http://dbpedia.org/resource/Novell> <http://bkgft.upb.de/english-title> <http://dbpedia.org/resource/Search_for_Destiny_or_the_Twenty_Seventh_Theorem_of_Ethics> .
+<http://dbpedia.org/resource/Ossendrecht> <http://bkgft.upb.de/until> "9 Dec 14" .
+<http://dbpedia.org/resource/Cass,_Indiana> <http://bkgft.upb.de/city> <http://dbpedia.org/resource/Atlanta> .
+<http://dbpedia.org/resource/Texarkana_metropolitan_area> <http://bkgft.upb.de/county>    <http://dbpedia.org/resource/Bowie:_A_Biography> .
+<http://dbpedia.org/resource/Standing> <http://bkgft.upb.de/me> "20[99]" .
+<http://dbpedia.org/resource/Chingiz_Mustafayev> <http://bkgft.upb.de/office> <http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party> .
+<http://dbpedia.org/resource/14_(number)> <http://bkgft.upb.de/competitors> "7,711" .
+<http://dbpedia.org/resource/XV_(rapper)> <http://bkgft.upb.de/events> "424" .
+<http://dbpedia.org/resource/Yelena_Isinbayeva> <http://dbpedia.org/ontology/nationality>    <http://dbpedia.org/resource/Russia> .
+<http://dbpedia.org/resource/University_of_Rhode_Island> <http://bkgft.upb.de/founded>    "1892" .
+<http://dbpedia.org/resource/Eleventh_Doctor> <http://bkgft.upb.de/sketches> "Discussion on Pornography - Door-to-Door Undertaker - Uncooperative Burglars - Topic Discusses Freedom of Speech - Programme Announcement - Studio Tour" .
+<http://dbpedia.org/resource/LaTasha_Colander> <http://bkgft.upb.de/reaction> "0.181" .
+<http://dbpedia.org/resource/Mohammad_Azharuddin> <http://bkgft.upb.de/year> "1986" .
+<http://dbpedia.org/resource/Pennsylvania_State_University> <http://bkgft.upb.de/new-conference>    <http://dbpedia.org/resource/Big_Ten_Network> .
+<http://dbpedia.org/resource/Li_Chengqian> <http://bkgft.upb.de/result> "2:37:53" .
+<http://dbpedia.org/resource/Eduardo_Buenavista> <http://dbpedia.org/ontology/nationality>    <http://dbpedia.org/resource/Philippines> .
+<http://dbpedia.org/resource/Mount_Victoria_(Bow_Range)> <http://bkgft.upb.de/age>    "" .
+<http://dbpedia.org/resource/Nicoleta_Grasu> <http://dbpedia.org/ontology/nationality>    <http://dbpedia.org/resource/Romania> .
+<http://dbpedia.org/resource/Magic_882> <http://bkgft.upb.de/location> <http://dbpedia.org/resource/Brisbane> .
+<http://dbpedia.org/resource/H11> <http://bkgft.upb.de/avian-influenza-a-viruses>    "A/duck/Alberta/60/76/(H12N5)" .
+<http://dbpedia.org/resource/Man-Thing> <http://bkgft.upb.de/year> "2005" .
+<http://dbpedia.org/resource/The_Whore's_Child_and_Other_Stories> <http://bkgft.upb.de/year>    "2001" .
+<http://dbpedia.org/resource/Albinyana> <http://bkgft.upb.de/population-2014> "2,335" .
+<http://dbpedia.org/resource/Eunomia_family> <http://bkgft.upb.de/mean> "0.19" .
+<http://dbpedia.org/resource/Shammi_Kapoor> <http://bkgft.upb.de/s-no> "1" .
+<http://dbpedia.org/resource/Winkfield> <http://bkgft.upb.de/time> "" .
+<http://dbpedia.org/resource/Richard_Hills_(jockey)> <http://bkgft.upb.de/winner>    <http://dbpedia.org/resource/George_Ashall> .
+<http://dbpedia.org/resource/East_Gwillimbury> <http://bkgft.upb.de/alightings> "5" .
+<http://dbpedia.org/resource/Steve_Hackett> <http://bkgft.upb.de/director> <http://dbpedia.org/resource/Yes_(band)> .
+<http://dbpedia.org/resource/Robert_F._Wagner> <http://bkgft.upb.de/orchestra-conductor>    "Hallé Orchestra / Mark Elder" .
+<http://dbpedia.org/resource/Max_Clark> <http://bkgft.upb.de/union> <http://dbpedia.org/resource/England_High_School> .
+<http://dbpedia.org/resource/Lower_Buckhorn_Lake> <http://bkgft.upb.de/code-id> "00069557" .
+<http://dbpedia.org/resource/Eintracht_Braunschweig> <http://dbpedia.org/ontology/ground>    <http://dbpedia.org/resource/Eintracht-Stadion> .
+<http://dbpedia.org/resource/Portugal> <http://bkgft.upb.de/airport> <http://dbpedia.org/resource/Pico_Airport> .
+<http://dbpedia.org/resource/Flipper_(band)> <http://bkgft.upb.de/date> <http://dbpedia.org/resource/April_21> .
+<http://dbpedia.org/resource/The_Godfather_(novel)> <http://bkgft.upb.de/year> "1972" .
+<http://dbpedia.org/resource/Christopher_McDonald> <http://bkgft.upb.de/date> <http://dbpedia.org/resource/February_13_(Eastern_Orthodox_liturgics)> .
+<http://dbpedia.org/resource/Netherlands_Antilles> <http://bkgft.upb.de/l> "0" .
+<http://dbpedia.org/resource/FLASH> <http://bkgft.upb.de/trainer> "" .
+<http://dbpedia.org/resource/Rockpile> <http://bkgft.upb.de/day> "-" .
+<http://dbpedia.org/resource/Luftwaffe> <http://bkgft.upb.de/player> <http://dbpedia.org/resource/Matt_Beleskey> .
+<http://dbpedia.org/resource/Geelong> <http://bkgft.upb.de/away-team> <http://dbpedia.org/resource/Carlton_Communications> .
+<http://dbpedia.org/resource/Colorado_Rapids> <http://bkgft.upb.de/player> <http://dbpedia.org/resource/Chris_Carrieri> .

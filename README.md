@@ -13,3 +13,5 @@ Given a wikipedia dump in: `E:\enwiki-20171103-pages.tsv`
 3. After running `java GraphGenerator E:\tables E:\repo` a repository is generated in E:\repo (using RDF4J) and facts from the tables are added to it.
 4. After running `java RDFRepoToTTLConverter E:\repo E:\graph.ttl` the generated statements are stored in RDF turtle format in E:\graph.ttl.
 5. After running `java RandomlyChooser E:\graph.ttl E:\chosen.ttl 200` 200 statements (excluding statements having the predicate rdfs:label) are randomly chosen and stored in E:\chosen.ttl.
+### More details
+For more details about the implementation and the used algorithms, see the [report](https://github.com/sibarsoumi/bkgft/blob/master/report/Report.pdf) and the [javadoc](https://github.com/sibarsoumi/bkgft/tree/master/doc).
